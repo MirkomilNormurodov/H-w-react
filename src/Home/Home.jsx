@@ -30,6 +30,7 @@ import th10  from '../images/gallery/thumbs/10.jpg'
 import th11  from '../images/gallery/thumbs/11.jpg'
 import th12  from '../images/gallery/thumbs/12.jpg'
 
+
 function Home() {
     return (
         <>
